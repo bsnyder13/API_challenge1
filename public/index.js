@@ -1,4 +1,4 @@
-const baseURL = "http://ergast.com/api/f1/current/next.json"
+const baseURL = "https://ergast.com/api/f1/current/next.json"
 
 
 const getNextRace = async() => {
